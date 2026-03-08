@@ -8,13 +8,7 @@ A MERN Stack web application that motivates students to perform environmentally 
 Students can sign up, complete environmental tasks, earn points, receive rewards, and compete with others on a leaderboard.
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Stack-MERN-green"/>
-<img src="https://img.shields.io/badge/Frontend-React-blue"/>
-<img src="https://img.shields.io/badge/Backend-Node.js-brightgreen"/>
-<img src="https://img.shields.io/badge/Database-MongoDB-green"/>
-<img src="https://img.shields.io/badge/Auth-JWT-orange"/>
-</p>
+
 
 ---
 
